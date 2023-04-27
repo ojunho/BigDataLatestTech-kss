@@ -3,6 +3,7 @@
 Natural language processing-based analysis of women's clothing review text data to identify consumer needs
 
 ### .ipynb 파일 업로드시 깨져 보이는 현상때문에, 자세한 내용은 링크 참조 부탁드립니다.
+(혹은 [nbviewer](https://nbviewer.org/)에 해당 github 링크 넣어서 보실 수도 있습니다.)
 
 **projcet** : 전체 프로젝트 파일(.pdf 포함) [colab](https://drive.google.com/file/d/1-8TJ0p1S91xuGoAqqdF3ngEC_aoXNTzh/view?usp=share_link)
 
