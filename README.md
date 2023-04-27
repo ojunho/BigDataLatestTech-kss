@@ -8,7 +8,7 @@ Natural language processing-based analysis of women's clothing review text data 
 
 ----------------------------------------------------
 
--**projcet** : 전체 프로젝트 파일(.pdf 포함) [colab](https://drive.google.com/file/d/1-8TJ0p1S91xuGoAqqdF3ngEC_aoXNTzh/view?usp=share_link)
+-**projcet.ipynb(project.pdf)** : 전체 프로젝트 파일(.pdf 포함) [colab](https://drive.google.com/file/d/1-8TJ0p1S91xuGoAqqdF3ngEC_aoXNTzh/view?usp=share_link)
 
 -**sentence_sim.ipynb** : 문장 유사도 ipynb file [colab](https://drive.google.com/file/d/1-A1W69PfS-vn7C3WYLsKdeXTZsZ1O4vf/view?usp=share_link)
 
